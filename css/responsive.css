@@ -139,6 +139,9 @@ body,html{
     width: 100%;
     border-radius: 20px;
 }
+.price{
+    text-align: center;
+}
 /* i pad*/
 @media(min-width:800px){
     .top-nav{
